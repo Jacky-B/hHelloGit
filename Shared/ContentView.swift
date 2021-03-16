@@ -11,6 +11,8 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, Git!")
             .padding()
+            .accentColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+     
     }
 }
 
